@@ -1,0 +1,1 @@
+primeiro nodejs, um multiplicador basicão.
